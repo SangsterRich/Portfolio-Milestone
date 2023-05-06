@@ -1,0 +1,4 @@
+Process Improvement for Reducing Food Expenditures
+
+An academic project which addressed a problem in our lives and harnessed the power of data collection, analysis, and presentation to identify solutions for our stakeholders.
+
